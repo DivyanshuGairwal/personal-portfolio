@@ -8,7 +8,7 @@ My personal portfolio website showcasing my skills, projects, and contact inform
  3) Tech Stack
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript..
 
  4) Features
 - Fully responsive design
