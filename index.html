@@ -1,0 +1,261 @@
+`
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend Developer Portfolio</title>
+    <meta name="description"
+        content="Portfolio of a passionate Frontend Developer focused on creating modern, responsive, and user-friendly web experiences.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <header id="navbar">
+        <nav class="container">
+            <a href="#" class="logo">Divyanshu<span>.dev</span></a>
+            <ul class="nav-links">
+                <li><a href="#hero" class="active">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <div class="nav-actions">
+                <button id="theme-toggle" aria-label="Toggle Dark Mode">
+                    <i class="fas fa-sun"></i>
+                </button>
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero">
+            <div class="container hero-content">
+                <p class="greeting fade-in">Hi, I'm</p>
+                <h1 class="name fade-in">Divyanshu Gairwal</h1>
+                <h2 class="tagline fade-in">Frontend Developer</h2>
+                <p class="bio-short fade-in">I build meaningful, human-centric web products with a focus on clean design
+                    and performance.</p>
+                <div class="cta-buttons fade-in">
+                    <a href="#projects" class="btn btn-primary">View Projects</a>
+                    <a href="#contact" class="btn btn-secondary">Contact Me</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="about">
+            <div class="container">
+                <h2 class="section-title fade-in">About Me</h2>
+                <div class="about-grid">
+                    <div class="about-story fade-in">
+                        <h3>My Story</h3>
+                        <p>
+                            I've always been driven by <strong>curiosity</strong>. What started as tweaking browser code
+                            to see "what happens" turned into a passion for building software that solves real problems.
+                        </p>
+                        <p>
+                            I believe in <strong>consistency</strong> over intensity. Whether it's debugging a tricky
+                            layout or learning a new framework, I show up every day to get 1% better.
+                        </p>
+                        <p>
+                            Currently, I'm focused on moving beyond tutorials and <strong>building real
+                                projects</strong> that challenge my understanding of modern frontend architecture.
+                        </p>
+                    </div>
+
+                    <div class="timeline fade-in">
+                        <h3>My Journey</h3>
+                        <div class="timeline-item">
+                            <span class="year">The Beginning</span>
+                            <div class="content">
+                                <h4>Learning Phase</h4>
+                                <p>Explored the fundamentals of the web: semantic HTML, responsive CSS, and the "why"
+                                    behind JavaScript.</p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <span class="year">The Shift</span>
+                            <div class="content">
+                                <h4>Building Projects</h4>
+                                <p>Moved from passive learning to active development. Built utility apps, clones, and
+                                    interactive dashboards.</p>
+                            </div>
+                        </div>
+                        <div class="timeline-item active">
+                            <span class="year">Now</span>
+                            <div class="content">
+                                <h4>Current Focus</h4>
+                                <p>Deepening knowledge of React, exploring backend integration, and polishing UI/UX
+                                    skills.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="skills">
+            <div class="container">
+                <h2 class="section-title fade-in">Skills & Tools</h2>
+                <div class="skills-wrapper fade-in">
+
+                    <div class="skill-group">
+                        <h3>Frontend Core</h3>
+                        <div class="pills">
+                            <span class="pill">HTML5</span>
+                            <span class="pill">CSS3</span>
+                            <span class="pill">JavaScript (ES6+)</span>
+                            <span class="pill">React.js</span>
+                            <span class="pill">Tailwind CSS</span>
+                            <span class="pill">Responsive Design</span>
+                        </div>
+                    </div>
+
+                    <div class="skill-group">
+                        <h3>Tools & Workflow</h3>
+                        <div class="pills">
+                            <span class="pill">Git & GitHub</span>
+                            <span class="pill">VS Code</span>
+                            <span class="pill">Figma (Basics)</span>
+                            <span class="pill">Vite</span>
+                            <span class="pill">Chrome DevTools</span>
+                        </div>
+                    </div>
+
+                    <div class="skill-group">
+                        <h3>Currently Learning</h3>
+                        <div class="pills learning">
+                            <span class="pill">Next.js</span>
+                            <span class="pill">TypeScript</span>
+                            <span class="pill">Advanced Accessibility</span>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section id="projects">
+            <div class="container">
+                <h2 class="section-title fade-in">Featured Projects</h2>
+                <div class="projects-grid">
+                    <!-- Project 1 -->
+                    <article class="project-card fade-in">
+                        <div class="card-content">
+                            <div class="card-header">
+                                <h3 class="project-name">Music Journal</h3>
+                                <div class="project-links">
+                                    <a href="#" target="_blank" aria-label="Live Demo"><i
+                                            class="fas fa-external-link-alt"></i></a>
+                                    <a href="#" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+                                </div>
+                            </div>
+                            <p class="project-description">A memory-centric journaling app that maps life moments to
+                                songs. Focuses on minimal design and local persistence.</p>
+                            <div class="tech-stack">
+                                <span>HTML/CSS</span>
+                                <span>Vanilla JS</span>
+                                <span>LocalStorage</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- Project 2 -->
+                    <article class="project-card fade-in">
+                        <div class="card-content">
+                            <div class="card-header">
+                                <h3 class="project-name">Fitness Tracker</h3>
+                                <div class="project-links">
+                                    <a href="#" target="_blank" aria-label="Live Demo"><i
+                                            class="fas fa-external-link-alt"></i></a>
+                                    <a href="https://github.com/DivyanshuGairwal" target="_blank" aria-label="GitHub"><i
+                                            class="fab fa-github"></i></a>
+                                </div>
+                            </div>
+                            <p class="project-description">Activity tracking dashboard with mobile-first "app-like"
+                                aesthetic. Tracks workouts and visualizes weekly progress.</p>
+                            <div class="tech-stack">
+                                <span>React</span>
+                                <span>Tailwind</span>
+                                <span>Chart.js</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- Project 3 -->
+                    <article class="project-card fade-in">
+                        <div class="card-content">
+                            <div class="card-header">
+                                <h3 class="project-name">COVID-19 Dashboard</h3>
+                                <div class="project-links">
+                                    <a href="#" target="_blank" aria-label="Live Demo"><i
+                                            class="fas fa-external-link-alt"></i></a>
+                                    <a href="https://github.com/DivyanshuGairwal" target="_blank" aria-label="GitHub"><i
+                                            class="fab fa-github"></i></a>
+                                </div>
+                            </div>
+                            <p class="project-description">Real-time data visualization of pandemic trends using public
+                                APIs. Optimized for performance and readability.</p>
+                            <div class="tech-stack">
+                                <span>JavaScript</span>
+                                <span>Fetch API</span>
+                                <span>Chart Libraries</span>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <div class="container medium-width">
+                <h2 class="section-title fade-in">Let's Connect</h2>
+                <p class="contact-highlight fade-in">
+                    <span class="highlight-text">Open to internships and frontend roles.</span>
+                </p>
+
+                <div class="contact-methods fade-in">
+                    <a href="mailto:your.email@example.com" class="contact-card">
+                        <i class="fas fa-envelope"></i>
+                        <span>Email Me</span>
+                    </a>
+                    <a href="https://linkedin.com/in/divyanshu-gairwal-980315299/" target="_blank" class="contact-card">
+                        <i class="fab fa-linkedin"></i>
+                        <span>LinkedIn</span>
+                    </a>
+                    <a href="https://github.com/DivyanshuGairwal" target="_blank" class="contact-card">
+                        <i class="fab fa-github"></i>
+                        <span>GitHub</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container footer-content">
+            <div class="social-links">
+                <a href="https://github.com/DivyanshuGairwal" target="_blank" aria-label="GitHub"><i
+                        class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/divyanshu-gairwal-980315299/" target="_blank"
+                    aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+            </div>
+            <p class="copyright">&copy; 2025 Divyanshu Gairwal. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
