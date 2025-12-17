@@ -20,5 +20,4 @@ My personal portfolio website showcasing my skills, projects, and contact inform
 **Divyanshu Gairwal**  
 - GitHub: https://github.com/DivyanshuGairwal  
 - LinkedIn: https://www.linkedin.com/in/divyanshu-gairwal-980315299/
-
-- 
+- add projects 
