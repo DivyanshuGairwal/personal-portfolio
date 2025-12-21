@@ -4,19 +4,13 @@ My personal portfolio website showcasing my skills, projects, and journey as a f
 
 This site is a living project — I keep improving it as I learn and grow.
 
-
-
 ## 🚀 Live Demo
 👉 https://divyanshugairwal.github.io/personal-portfolio/
-
-
 
 ## 🛠 Tech Stack
 - HTML5  
 - CSS3  
 - JavaScript  
-
-
 
 ## ✨ Features
 - 🎨 Clean and modern UI  
@@ -25,14 +19,10 @@ This site is a living project — I keep improving it as I learn and grow.
 - 🧭 Smooth scrolling and navigation  
 - 📂 Project showcase section  
 
-
-
 ## 📌 Projects Featured
 - **Bookshelf** — Book discovery web app using Google Books API  
 - **Fitness Activity Tracker** — Simple frontend-based activity tracker  
 - *(More coming as I build)*  
-
----
 
 ## 🎯 Why I Built This
 I created this portfolio to:
@@ -43,14 +33,10 @@ I created this portfolio to:
 
 This portfolio evolves as I learn more.
 
----
-
 ## 👤 Author
 **Divyanshu Gairwal**
 
 - GitHub: https://github.com/DivyanshuGairwal  
 - LinkedIn: https://www.linkedin.com/in/divyanshu-gairwal-980315299/
-
----
 
 ⭐ If you like my work, feel free to star the repo!
