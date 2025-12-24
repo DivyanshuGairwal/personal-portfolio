@@ -1,6 +1,6 @@
 # 👋 Divyanshu Gairwal — Personal Portfolio
 
-My personal portfolio website showcasing my skills, projects, and journey as a frontend developer.
+My personal portfolio website showcasing my skills, projects, and journey as a frontend developer. 
 
 This site is a living project — I keep improving it as I learn and grow.
 
