@@ -31,7 +31,7 @@ I created this portfolio to:
 - Learn deployment and GitHub workflows  
 - Build real projects instead of just tutorials  
 
-This portfolio evolves as I learn more.
+This portfolio evolves as I learn 
 
 ## 👤 Author
 **Divyanshu Gairwal**
