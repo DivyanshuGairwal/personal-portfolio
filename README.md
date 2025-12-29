@@ -39,4 +39,4 @@ This portfolio evolves as I learn more.
 - GitHub: https://github.com/DivyanshuGairwal  
 - LinkedIn: https://www.linkedin.com/in/divyanshu-gairwal-980315299/
 
-⭐ If you like my work, feel free to star the repo! 
+⭐ If you like my work, feel free to star the repo! will motivate me to do the work.
