@@ -13,7 +13,7 @@ This site is a living project — I keep improving it as I learn and grow.
 - CSS3  
 - JavaScript
   
-## ✨ Features
+## ✨ Features  
 - 🎨 Clean and modern UI   
 - 📱 Fully responsive design  
 - 🌙 Dark mode support  
