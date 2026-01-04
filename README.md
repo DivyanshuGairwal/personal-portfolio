@@ -26,7 +26,7 @@ This site is a living project — I keep improving it as I learn and grow.
 - *(More coming as I build)*  
 
 ## 🎯 Why I Built This
-I created this portfolio to:
+I created this portfolio to: 
 - Showcase my frontend skills  
 - Practice clean UI/UX design  
 - Learn deployment and GitHub workflows  
