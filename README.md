@@ -11,7 +11,7 @@ This site is a living project — I keep improving it as I learn and grow.
 ## 🛠 Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript   
+- JavaScript      
   
 ## ✨ Features     
 - 🎨 Clean and modern UI   
