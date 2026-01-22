@@ -18,7 +18,7 @@ This site is a living project — I keep improving it as I learn and grow.
 - 📱 Fully responsive design        
 - 🌙 Dark mode support            
 - 🧭 Smooth scrolling and navigation  
-- 📂 Project showcase section  
+- 📂 Project showcase section     
 
 ## 📌 Projects Featured
 - **Bookshelf** — Book discovery web app using Google Books API    
