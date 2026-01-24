@@ -21,7 +21,7 @@ This site is a living project — I keep improving it as I learn and grow.
 - 📂 Project showcase section     
 
 ## 📌 Projects Featured
-- **Bookshelf** — Book discovery web app using Google Books API    
+- **Bookshelf** — Book discovery web app using Google Books API      
 - **Fitness Activity Tracker** — Simple frontend-based activity tracker  
 - *(More coming as I build)*  
 
