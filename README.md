@@ -1,4 +1,4 @@
-# Divyanshu Gairwal — Personal Portfolio
+  # Divyanshu Gairwal — Personal Portfolio
 
 My personal portfolio website showcasing my skills, projects, and journey as a frontend developer. 
 
