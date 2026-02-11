@@ -20,7 +20,7 @@ This site is a living project — I keep improving it as I learn and grow.
 - 🧭 Smooth scrolling and navigation       
 - 📂 Project showcase section     
 
-## 📌 Projects Featured
+## 📌 Projects Featured 
 - **Bookshelf** — Book discovery web app using Google Books API      
 - **Fitness Activity Tracker** — Simple frontend-based activity tracker  
 - *(More coming as I build)*  
