@@ -8,7 +8,7 @@ This site is a living project — I keep improving it as I learn and grow.
 ## 🚀 Live Demo    
 👉 https://divyanshugairwal.github.io/personal-portfolio/
      
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 - HTML5     
 - CSS3     
 - JavaScript      
