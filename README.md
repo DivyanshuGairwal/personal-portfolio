@@ -16,7 +16,7 @@ This site is a living project — I keep improving it as I learn and grow.
 ## ✨ Features               
 - 🎨 Clean and modern UI     
 - 📱 Fully responsive design           
-- 🌙 Dark mode support               
+- 🌙 Dark mode support                  
 - 🧭 Smooth scrolling and navigation       
 - 📂 Project showcase section     
 
