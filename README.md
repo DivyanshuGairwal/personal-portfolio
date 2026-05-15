@@ -68,7 +68,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 **Divyanshu Gairwal**
 * Frontend-focused developer currently pursuing my BCA.
 * Passionate about crafting beautiful, user-centric web applications.
-* Continuously learning and building in public.
+
 
 📫 **Let's Connect:**
 * [LinkedIn](https://www.linkedin.com/in/divyanshu-gairwal-980315299/)
