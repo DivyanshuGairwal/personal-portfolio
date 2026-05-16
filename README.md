@@ -74,6 +74,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 * [LinkedIn](https://www.linkedin.com/in/divyanshu-gairwal-980315299/)
 * [GitHub](https://github.com/DivyanshuGairwal)
 
----
+
 
 ⭐ *If you found this repository helpful or appreciate the design, feel free to give it a star! It motivates me to keep building and improving.*
